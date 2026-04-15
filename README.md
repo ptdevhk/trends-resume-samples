@@ -1,17 +1,16 @@
 # Trends Resume Sample Snapshots
 
-Last updated: 2026-04-13T07:26:44.667Z
-Source timestamp: 20260413-143036
-Total resume files: 4
-Total resumes: 80
+Last updated: 2026-04-15T02:56:15.228Z
+Source timestamp: 20260415-105223
+Total resume files: 3
+Total resumes: 60
 
 ## Files
 
 | File | Source | Resumes |
 |------|--------|---------|
-| resume-backup-51job-manual-top20-20260413-143036.json | 51job-manual | 20 |
-| resume-backup-51job-top20-20260413-143036.json | 51job | 20 |
-| resume-backup-job5156-top20-20260413-143036.json | job5156 | 20 |
+| resume-backup-51job-top20-20260415-105223.json | 51job | 20 |
+| resume-backup-job5156-top20-20260415-105223.json | job5156 | 20 |
 | resume-backup-seek-top20-20260409-030048.json | seek | 20 |
 
 ## Usage
