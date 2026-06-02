@@ -1,0 +1,620 @@
+{
+  "metadata": {
+    "sourceKey": "seek",
+    "sourceHost": "hk.employer.seek.com",
+    "sourceUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+    "generatedBy": "browser-extension@1.2.0",
+    "collectionContext": {
+      "captureMode": "graphql-list",
+      "operation": "GetTalentSearchRecommendedCandidates",
+      "profileType": "seek",
+      "seekMode": "recommended",
+      "jobId": 92216704
+    },
+    "generatedAt": "2026-06-02T15:18:04.397Z",
+    "totalPages": 1,
+    "totalResumes": 20
+  },
+  "resumes": [
+    {
+      "profileId": "dom-92216704-1-1",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-1",
+      "name": "Kent Wong",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Senior Sales Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Senior Sales Engineer at Emerson Electric Jan 2025 - Present (1 year 6 months)"
+        },
+        {
+          "raw": "Assistant Sales Manager at TEM Engineering Group Sdn Bhd Feb 2019 - Dec 2024 (5 years 11 months)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 1,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-2",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-2",
+      "name": "Richie Goh",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Service Sales Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Service Sales Engineer at Gutor May 2025 - Present (1 year 2 months)"
+        },
+        {
+          "raw": "Sales Engineer at Orga (SEA Orga Sdn. Bhd.) Jun 2023 - May 2025 (2 years)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 2,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-3",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-3",
+      "name": "Eloise Lee",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Senior Sales Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Senior Sales Engineer at QES Group Of Companies Sep 2024 - Present (1 year 10 months)"
+        },
+        {
+          "raw": "New Project Transfer Senior Executive at Besi APac Sdn Bhd Jun 2023 - Aug 2024 (1 year 3 months)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 3,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-4",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-4",
+      "name": "Amier Bazlie bin Johari",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Senior Sales Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Senior Sales Engineer at Pepperl+Fuchs Asia Pte Ltd Jan 2024 - Present (2 years 6 months)"
+        },
+        {
+          "raw": "Sales Engineer at Diamond Key International Aug 2022 - Dec 2023 (1 year 5 months)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 4,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-5",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-5",
+      "name": "Yi Yin Tan",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Senior Sales and Application Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Senior Sales and Application Engineer at Pro Cahaya Industries Oct 2021 - Present (4 years 9 months)"
+        },
+        {
+          "raw": "Sales and Application Engineer at Pro Cahaya Industries Aug 2018 - Sep 2021 (3 years 2 months)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 5,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-6",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-6",
+      "name": "Timothy Wong",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Sales and Application Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Sales and Application Engineer at Teco Electric and Machinery Sdn. Bhd. Feb 2022 - Present (4 years 5 months)"
+        },
+        {
+          "raw": "Process Engineer at Shimano Components (Malaysia) Sdn Bhd Jul 2019 - Jan 2022 (2 years 7 months)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 6,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-7",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-7",
+      "name": "Julian Mah",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Senior Sales Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Senior Sales Engineer at CAMFIL MALAYSIASDN BHD May 2025 - Present (1 year 2 months)"
+        },
+        {
+          "raw": "Project Sales Executive at ACSON MALAYSIASALES AND SERVICE SDN BHD Mar 2024 - Apr 2025 (1 year 2 months)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 7,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-8",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-8",
+      "name": "Ee Mun Chai",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Sales Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Sales Engineer at ENERCON ASIA PTE LTD Mar 2017 - Present (9 years 4 months)"
+        },
+        {
+          "raw": "Project Engineer at Vibro Power Pte Ltd Mar 2016 - Feb 2017 (1 year)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 8,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-9",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-9",
+      "name": "Choon Jie Hoong",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Sales Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Sales Engineer at ifm electronic Sep 2025 - Present (10 months)"
+        },
+        {
+          "raw": "Sales Engineer at Azbil Malaysia Sdn Bhd Jan 2023 - Aug 2025 (2 years 8 months)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 9,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-10",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-10",
+      "name": "Jia Wei Wong",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Technical Sales Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Technical Sales Engineer at Macfil Oct 2023 - Present (2 years 9 months)"
+        },
+        {
+          "raw": "Product Engineer at CCL DESIGN (KL) SDN. BHD. Jun 2022 - Jun 2023 (1 year 1 month)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 10,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-11",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-11",
+      "name": "Xiang Lun Ng",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Senior Technical Sales Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Senior Technical Sales Engineer at KUKA Feb 2026 - Present (5 months)"
+        },
+        {
+          "raw": "Technical Sales Engineer at FootfallCam (Meta Research Sdn. Bhd.) Jan 2024 - Feb 2026 (2 years 2 months)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 11,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-12",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-12",
+      "name": "Shernli Khor",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Sales Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Sales Engineer at Turcomp Engineering Services Sdn Bhd Jun 2023 - Present (3 years 1 month)"
+        },
+        {
+          "raw": "Sales engineer at TURCOMP ENGINEERING SERVICES SDN. BHD. Jun 2023 - Present (3 years 1 month)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 12,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-13",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-13",
+      "name": "Jun Weng Yap",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Sales & Application Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Sales & Application Engineer at Crest Nov 2021 - Present (4 years 8 months)"
+        },
+        {
+          "raw": "Intern at TICA CLIMATE SOLUTIONS MALAYSIA SDN BHD Oct 2019 - Dec 2019 (3 months)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 13,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-14",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-14",
+      "name": "Timothy Leong Zi Jian",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Sales Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Sales Engineer at IPSH Sdn Bhd Sep 2024 - Present (1 year 10 months)"
+        },
+        {
+          "raw": "Quality Engineer at Jinko Solar Jun 2021 - Sep 2023 (2 years 4 months)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 14,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-15",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-15",
+      "name": "Chee Yong Liew",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Senior Sales Engineer - Fire Resistance Cable",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Senior Sales Engineer - Fire Resistance Cable at EITA Power System Sdn Bhd Jul 2023 - Present (3 years)"
+        },
+        {
+          "raw": "Sales Engineer - Commercial Service Robots at EITA Power System Sdn Bhd Jul 2022 - Jul 2023 (1 year 1 month)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 15,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-16",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-16",
+      "name": "Xin Ze Tan",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Sales Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Sales Engineer at Centricorp M Sdn. Bhd Jul 2025 - Present (1 year)"
+        },
+        {
+          "raw": "Mechanical Design Engineer at Centricorp M Sdn. Bhd May 2024 - Jun 2025 (1 year 2 months)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 16,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-17",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-17",
+      "name": "Fu Hee Tom",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Senior Sales and Technical Services Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Senior Sales and Technical Services Engineer at Lintec Advanced Technologies (M) Sdn Bhd Nov 2018 - Present (7 years 8 months)"
+        },
+        {
+          "raw": "Trainee Engineer at Nectar Consortium Sep 2016 - Nov 2016 (3 months)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 17,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-18",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-18",
+      "name": "Zhu Kher Wong",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Sales Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Sales Engineer at Pacific Energy System Group Sdn Bhd Jun 2024 - Nov 2025 (1 year 6 months)"
+        },
+        {
+          "raw": "Event Salesperson at KL Sep 2022 - Apr 2024 (1 year 8 months)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 18,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-19",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-19",
+      "name": "Carson Cheng",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Technical Sales Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Technical Sales Engineer at ITH Asia Pacific Sdn Bhd Sep 2023 - Mar 2025 (1 year 7 months)"
+        },
+        {
+          "raw": "Assistant Sales Manager at Tsubaki Power Transmission (Malaysia) Sdn Bhd Feb 2023 - Jul 2023 (6 months)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 19,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "dom-92216704-1-20",
+      "profileType": "seek",
+      "externalId": "hk.employer.seek.com:recommended:dom-92216704-1-20",
+      "name": "Nicol Liew",
+      "profileUrl": "https://hk.employer.seek.com/candidates/recommended?jobId=92216704",
+      "activityStatus": "",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "",
+      "jobIntention": "Senior Sales Engineer",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Senior Sales Engineer at Antah Schindler Sdn Bhd Aug 2022 - Present (3 years 11 months)"
+        },
+        {
+          "raw": "Sales Engineer at Eita Elevator (M) Sdn Bhd Apr 2021 - Jul 2022 (1 year 4 months)"
+        }
+      ],
+      "extractedAt": "2026-06-02T15:17:58.381Z",
+      "pageIndex": 20,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    }
+  ]
+}
