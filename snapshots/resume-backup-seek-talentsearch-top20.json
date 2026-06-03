@@ -2,7 +2,7 @@
   "metadata": {
     "sourceKey": "seek",
     "sourceHost": "hk.employer.seek.com",
-    "sourceUrl": "https://hk.employer.seek.com/talentsearch?searchQuery=CNC+Sales&market=MY&pageNumber=1&roleTitles=Sales&salaryType=MONTHLY&minSalary=0&salaryUnspecified=true&keywords=CNC&matchAll=false&sortBy=RELEVANCE",
+    "sourceUrl": "https://hk.employer.seek.com/talentsearch?searchQuery=CNC+Sales&market=MY&pageNumber=1&roleTitles=CNC+Sales&salaryType=MONTHLY&minSalary=0&salaryUnspecified=true&sortBy=RELEVANCE",
     "generatedBy": "browser-extension@1.2.0",
     "collectionContext": {
       "captureMode": "graphql-talentsearch",
@@ -14,51 +14,11 @@
       "searchQuery": "CNC Sales",
       "lastOperationName": "GetTalentSearchProfileCompleteV3"
     },
-    "generatedAt": "2026-06-02T15:20:01.150Z",
+    "generatedAt": "2026-06-03T08:07:30.668Z",
     "totalPages": 1,
-    "totalResumes": 20
+    "totalResumes": 11
   },
   "resumes": [
-    {
-      "profileId": "52a6b466-895d-11ea-8ede-005056b16351",
-      "profileType": "seek",
-      "seekProfileGuid": "52a6b466-895d-11ea-8ede-005056b16351",
-      "externalId": "hk.employer.seek.com:profile:52a6b466-895d-11ea-8ede-005056b16351",
-      "name": "HAN SIANG TANG",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=HAN%20SIANG%20TANG&market=MY&pageNumber=1",
-      "activityStatus": "over a year ago",
-      "age": "",
-      "experience": "",
-      "education": "",
-      "location": "Penang, MY",
-      "jobIntention": "",
-      "expectedSalary": "",
-      "selfIntro": "",
-      "workHistory": [
-        {
-          "raw": "CNC Programmer · UIS Technologies · Jun 2024 - Present (2 years 1 month)",
-          "companyName": "UIS Technologies",
-          "jobTitle": "CNC Programmer"
-        },
-        {
-          "raw": "Supervisor CNC PROGRAMMER · Westech Solution S/B · Oct 2022 - Present (3 years 9 months)",
-          "companyName": "Westech Solution S/B",
-          "jobTitle": "Supervisor CNC PROGRAMMER"
-        },
-        {
-          "raw": "CNC programmer · Jit kar · Oct 2019 - Oct 2022 (3 years 1 month)",
-          "companyName": "Jit kar",
-          "jobTitle": "CNC programmer"
-        }
-      ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 1,
-      "source": "hk.employer.seek.com",
-      "searchProfileId": "",
-      "language": "en",
-      "pageNumber": 1,
-      "sourceHost": "hk.employer.seek.com"
-    },
     {
       "profileId": "71311248-c57b-11ed-982d-005056b16351",
       "profileType": "seek",
@@ -91,193 +51,8 @@
           "jobTitle": "Internship"
         }
       ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 2,
-      "source": "hk.employer.seek.com",
-      "searchProfileId": "",
-      "language": "en",
-      "pageNumber": 1,
-      "sourceHost": "hk.employer.seek.com"
-    },
-    {
-      "profileId": "25492622-9dc5-102c-91a5-001e4f2746c5",
-      "profileType": "seek",
-      "seekProfileGuid": "25492622-9dc5-102c-91a5-001e4f2746c5",
-      "externalId": "hk.employer.seek.com:profile:25492622-9dc5-102c-91a5-001e4f2746c5",
-      "name": "ming siang ng",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=ming%20siang%20ng&market=MY&pageNumber=1",
-      "activityStatus": "over a year ago",
-      "age": "",
-      "experience": "",
-      "education": "",
-      "location": "Penang, MY",
-      "jobIntention": "",
-      "expectedSalary": "",
-      "selfIntro": "",
-      "workHistory": [
-        {
-          "raw": "Sales Engineer · W-Liqgas Technology · Oct 2009 - Present (16 years 9 months)",
-          "companyName": "W-Liqgas Technology",
-          "jobTitle": "Sales Engineer"
-        },
-        {
-          "raw": "cnc milling · twenty-twenty tooling engineering · Sep 2008 - Present (17 years 10 months)",
-          "companyName": "twenty-twenty tooling engineering",
-          "jobTitle": "cnc milling"
-        }
-      ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 3,
-      "source": "hk.employer.seek.com",
-      "searchProfileId": "",
-      "language": "en",
-      "pageNumber": 1,
-      "sourceHost": "hk.employer.seek.com"
-    },
-    {
-      "profileId": "86b02f28-cf5f-11e1-a26c-842b2bfd5774",
-      "profileType": "seek",
-      "seekProfileGuid": "86b02f28-cf5f-11e1-a26c-842b2bfd5774",
-      "externalId": "hk.employer.seek.com:profile:86b02f28-cf5f-11e1-a26c-842b2bfd5774",
-      "name": "Rozzaimi Bin Abdullah",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=Rozzaimi%20Bin%20Abdullah&market=MY&pageNumber=1",
-      "activityStatus": "over a year ago",
-      "age": "",
-      "experience": "",
-      "education": "",
-      "location": "Puchong, Selangor, MY",
-      "jobIntention": "",
-      "expectedSalary": "",
-      "selfIntro": "",
-      "workHistory": [
-        {
-          "raw": "CNC Machinist · UMW Aerospace · Sep 2017 - Present (8 years 10 months)",
-          "companyName": "UMW Aerospace",
-          "jobTitle": "CNC Machinist"
-        },
-        {
-          "raw": "Machining Technician · Safran Landing Systems Malaysia Sdn Bhd · Nov 2016 - Aug 2017 (10 months)",
-          "companyName": "Safran Landing Systems Malaysia Sdn Bhd",
-          "jobTitle": "Machining Technician"
-        },
-        {
-          "raw": "Sales Coordinator · Mun Lee Auto Parts (M) Sdn Bhd · Sep 2016 - Nov 2016 (3 months)",
-          "companyName": "Mun Lee Auto Parts (M) Sdn Bhd",
-          "jobTitle": "Sales Coordinator"
-        }
-      ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 4,
-      "source": "hk.employer.seek.com",
-      "searchProfileId": "",
-      "language": "en",
-      "pageNumber": 1,
-      "sourceHost": "hk.employer.seek.com"
-    },
-    {
-      "profileId": "660e44a5-7877-58ff-ff10-747200000000",
-      "profileType": "seek",
-      "seekProfileGuid": "660e44a5-7877-58ff-ff10-747200000000",
-      "externalId": "hk.employer.seek.com:profile:660e44a5-7877-58ff-ff10-747200000000",
-      "name": "Mathew Luyoh",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=Mathew%20Luyoh&market=MY&pageNumber=1",
-      "activityStatus": "over a year ago",
-      "age": "",
-      "experience": "",
-      "education": "",
-      "location": "Masai, Johor, MY",
-      "jobIntention": "",
-      "expectedSalary": "",
-      "selfIntro": "",
-      "workHistory": [
-        {
-          "raw": "cnc milling · Weidmuller malaysia sdn bhd · Apr 2021 - Present (5 years 3 months)",
-          "companyName": "Weidmuller malaysia sdn bhd",
-          "jobTitle": "cnc milling"
-        },
-        {
-          "raw": "Cashier & Sales Assistant · Pasar Serbaneka Keluarga Pusa · Jan 2025 - Present (1 year 6 months)",
-          "companyName": "Pasar Serbaneka Keluarga Pusa",
-          "jobTitle": "Cashier & Sales Assistant"
-        }
-      ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 5,
-      "source": "hk.employer.seek.com",
-      "searchProfileId": "",
-      "language": "en",
-      "pageNumber": 1,
-      "sourceHost": "hk.employer.seek.com"
-    },
-    {
-      "profileId": "8900fa42-496a-11ed-8fd8-005056b16351",
-      "profileType": "seek",
-      "seekProfileGuid": "8900fa42-496a-11ed-8fd8-005056b16351",
-      "externalId": "hk.employer.seek.com:profile:8900fa42-496a-11ed-8fd8-005056b16351",
-      "name": "Loo Pooi Ling",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=Loo%20Pooi%20Ling&market=MY&pageNumber=1",
-      "activityStatus": "over a year ago",
-      "age": "",
-      "experience": "",
-      "education": "",
-      "location": "Perak, MY",
-      "jobIntention": "",
-      "expectedSalary": "",
-      "selfIntro": "",
-      "workHistory": [
-        {
-          "raw": "CNC Machinist - CNC Punch Operator · Oung Million Hardware · Dec 2019 - Present (6 years 7 months)",
-          "companyName": "Oung Million Hardware",
-          "jobTitle": "CNC Machinist - CNC Punch Operator"
-        },
-        {
-          "raw": "Sales Executive · Oung Million Hardware · Oct 2017 - Present (8 years 9 months)",
-          "companyName": "Oung Million Hardware",
-          "jobTitle": "Sales Executive"
-        },
-        {
-          "raw": "Waitress - Part time · Mooghurt · Jun 2017 - Oct 2017 (5 months)",
-          "companyName": "Mooghurt",
-          "jobTitle": "Waitress - Part time"
-        }
-      ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 6,
-      "source": "hk.employer.seek.com",
-      "searchProfileId": "",
-      "language": "en",
-      "pageNumber": 1,
-      "sourceHost": "hk.employer.seek.com"
-    },
-    {
-      "profileId": "6110cb74-dfbe-11e5-ad1d-005056b16351",
-      "profileType": "seek",
-      "seekProfileGuid": "6110cb74-dfbe-11e5-ad1d-005056b16351",
-      "externalId": "hk.employer.seek.com:profile:6110cb74-dfbe-11e5-ad1d-005056b16351",
-      "name": "Malvin Ang",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=Malvin%20Ang&market=MY&pageNumber=1",
-      "activityStatus": "over a year ago",
-      "age": "",
-      "experience": "",
-      "education": "",
-      "location": "Melaka, MY",
-      "jobIntention": "",
-      "expectedSalary": "",
-      "selfIntro": "",
-      "workHistory": [
-        {
-          "raw": "CNC Programmer · Ultimate Technology Sdn Bhd · Mar 2013 - Jun 2019 (6 years 4 months)",
-          "companyName": "Ultimate Technology Sdn Bhd",
-          "jobTitle": "CNC Programmer"
-        },
-        {
-          "raw": "Direct Sales Executive · Pro Direct Sdn Bhd · Jan 2011 - Mar 2012 (1 year 3 months)",
-          "companyName": "Pro Direct Sdn Bhd",
-          "jobTitle": "Direct Sales Executive"
-        }
-      ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 7,
+      "extractedAt": "2026-06-03T08:06:38.862Z",
+      "pageIndex": 1,
       "source": "hk.employer.seek.com",
       "searchProfileId": "",
       "language": "en",
@@ -316,168 +91,8 @@
           "jobTitle": "Quality Checker"
         }
       ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 8,
-      "source": "hk.employer.seek.com",
-      "searchProfileId": "",
-      "language": "en",
-      "pageNumber": 1,
-      "sourceHost": "hk.employer.seek.com"
-    },
-    {
-      "profileId": "53e41e22-d868-11e5-a19d-005056a279c0",
-      "profileType": "seek",
-      "seekProfileGuid": "53e41e22-d868-11e5-a19d-005056a279c0",
-      "externalId": "hk.employer.seek.com:profile:53e41e22-d868-11e5-a19d-005056a279c0",
-      "name": "ANSON TAN WENG FATT",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=ANSON%20TAN%20WENG%20FATT&market=MY&pageNumber=1",
-      "activityStatus": "within the last 6 months",
-      "age": "",
-      "experience": "",
-      "education": "",
-      "location": "Bukit Mertajam, Penang, MY",
-      "jobIntention": "",
-      "expectedSalary": "",
-      "selfIntro": "",
-      "workHistory": [
-        {
-          "raw": "CNC Milling Machinist · CHL Innovation · Jan 2024 - Present (2 years 6 months)",
-          "companyName": "CHL Innovation",
-          "jobTitle": "CNC Milling Machinist"
-        },
-        {
-          "raw": "Mechanical Designer · Tong Yik Engineering Sdn Bhd · Feb 2021 - Oct 2023 (2 years 9 months)",
-          "companyName": "Tong Yik Engineering Sdn Bhd",
-          "jobTitle": "Mechanical Designer"
-        },
-        {
-          "raw": "Sales Representation · Mototan Parts Sdn Bhd · Dec 2017 - Dec 2020 (3 years 1 month)",
-          "companyName": "Mototan Parts Sdn Bhd",
-          "jobTitle": "Sales Representation"
-        }
-      ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 9,
-      "source": "hk.employer.seek.com",
-      "searchProfileId": "",
-      "language": "en",
-      "pageNumber": 1,
-      "sourceHost": "hk.employer.seek.com"
-    },
-    {
-      "profileId": "ccf17ca4-6a73-11e6-8064-005056b16351",
-      "profileType": "seek",
-      "seekProfileGuid": "ccf17ca4-6a73-11e6-8064-005056b16351",
-      "externalId": "hk.employer.seek.com:profile:ccf17ca4-6a73-11e6-8064-005056b16351",
-      "name": "Muhamad Azri Ahmad",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=Muhamad%20Azri%20Ahmad&market=MY&pageNumber=1",
-      "activityStatus": "over a year ago",
-      "age": "",
-      "experience": "",
-      "education": "",
-      "location": "Batu Pahat, Johor, MY",
-      "jobIntention": "",
-      "expectedSalary": "",
-      "selfIntro": "",
-      "workHistory": [
-        {
-          "raw": "CNC Programmer · Wegmans Furniture Industries Sdn Bhd · Apr 2018 - Present (8 years 3 months)",
-          "companyName": "Wegmans Furniture Industries Sdn Bhd",
-          "jobTitle": "CNC Programmer"
-        },
-        {
-          "raw": "Freelance · self employment · Feb 2016 - Dec 2017 (1 year 11 months)",
-          "companyName": "self employment",
-          "jobTitle": "Freelance"
-        },
-        {
-          "raw": "Manager · One Energize Station Sdn. Bhd. · Jan 2015 - Jan 2016 (1 year 1 month)",
-          "companyName": "One Energize Station Sdn. Bhd.",
-          "jobTitle": "Manager"
-        }
-      ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 10,
-      "source": "hk.employer.seek.com",
-      "searchProfileId": "",
-      "language": "en",
-      "pageNumber": 1,
-      "sourceHost": "hk.employer.seek.com"
-    },
-    {
-      "profileId": "17e35734-3410-496f-b713-24fb2d25287a",
-      "profileType": "seek",
-      "seekProfileGuid": "17e35734-3410-496f-b713-24fb2d25287a",
-      "externalId": "hk.employer.seek.com:profile:17e35734-3410-496f-b713-24fb2d25287a",
-      "name": "Tan Chong Keat",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=Tan%20Chong%20Keat&market=MY&pageNumber=1",
-      "activityStatus": "over a year ago",
-      "age": "",
-      "experience": "",
-      "education": "",
-      "location": "Kuala Lumpur, MY",
-      "jobIntention": "",
-      "expectedSalary": "",
-      "selfIntro": "",
-      "workHistory": [
-        {
-          "raw": "CNC derparment · sh engineering sdn bhd · May 2001 - Present (25 years 2 months)",
-          "companyName": "sh engineering sdn bhd",
-          "jobTitle": "CNC derparment"
-        },
-        {
-          "raw": "TECHISIAN · DRAGON TECKNOLOGY SND. BHD. · May 2000 - May 2001 (1 year 1 month)",
-          "companyName": "DRAGON TECKNOLOGY SND. BHD.",
-          "jobTitle": "TECHISIAN"
-        },
-        {
-          "raw": "SALES · ELKEN(M) SND. BHD. · May 2000 - May 2002 (2 years 1 month)",
-          "companyName": "ELKEN(M) SND. BHD.",
-          "jobTitle": "SALES"
-        }
-      ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 11,
-      "source": "hk.employer.seek.com",
-      "searchProfileId": "",
-      "language": "en",
-      "pageNumber": 1,
-      "sourceHost": "hk.employer.seek.com"
-    },
-    {
-      "profileId": "a2bb5c6a-1669-4468-a6f3-2589403695c7",
-      "profileType": "seek",
-      "seekProfileGuid": "a2bb5c6a-1669-4468-a6f3-2589403695c7",
-      "externalId": "hk.employer.seek.com:profile:a2bb5c6a-1669-4468-a6f3-2589403695c7",
-      "name": "Kim Chong Lew",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=Kim%20Chong%20Lew&market=MY&pageNumber=1",
-      "activityStatus": "over a year ago",
-      "age": "",
-      "experience": "",
-      "education": "",
-      "location": "Kedah, MY",
-      "jobIntention": "",
-      "expectedSalary": "",
-      "selfIntro": "",
-      "workHistory": [
-        {
-          "raw": "CNC Department head · UIS TECHNOLOGIES SDN BHD · Nov 2020 - Present (5 years 8 months)",
-          "companyName": "UIS TECHNOLOGIES SDN BHD",
-          "jobTitle": "CNC Department head"
-        },
-        {
-          "raw": "Engineer · ChiCheng technology (M) SDN BHD · Apr 2013 - Nov 2020 (7 years 8 months)",
-          "companyName": "ChiCheng technology (M) SDN BHD",
-          "jobTitle": "Engineer"
-        },
-        {
-          "raw": "Process Engineer · Orential Fastech Manufacturing sdn. bhd. · Jun 2010 - Mar 2013 (2 years 10 months)",
-          "companyName": "Orential Fastech Manufacturing sdn. bhd.",
-          "jobTitle": "Process Engineer"
-        }
-      ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 12,
+      "extractedAt": "2026-06-03T08:06:38.862Z",
+      "pageIndex": 2,
       "source": "hk.employer.seek.com",
       "searchProfileId": "",
       "language": "en",
@@ -516,208 +131,8 @@
           "jobTitle": "Quality Control Inspector"
         }
       ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 13,
-      "source": "hk.employer.seek.com",
-      "searchProfileId": "",
-      "language": "en",
-      "pageNumber": 1,
-      "sourceHost": "hk.employer.seek.com"
-    },
-    {
-      "profileId": "f59d2322-8194-11e2-9879-001ec9b02997",
-      "profileType": "seek",
-      "seekProfileGuid": "f59d2322-8194-11e2-9879-001ec9b02997",
-      "externalId": "hk.employer.seek.com:profile:f59d2322-8194-11e2-9879-001ec9b02997",
-      "name": "nizam azim",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=nizam%20azim&market=MY&pageNumber=1",
-      "activityStatus": "over a year ago",
-      "age": "",
-      "experience": "",
-      "education": "",
-      "location": "Putrajaya, MY",
-      "jobIntention": "",
-      "expectedSalary": "",
-      "selfIntro": "",
-      "workHistory": [
-        {
-          "raw": "SUPERVISOR/ CNC PROGRAMMER · INOSCALE SDN BHD · Dec 2011 - Jan 2013 (1 year 2 months)",
-          "companyName": "INOSCALE SDN BHD",
-          "jobTitle": "SUPERVISOR/ CNC PROGRAMMER"
-        },
-        {
-          "raw": "SALES EXECUTIVE · MEDIA CONFES SDN BHD · Jan 2013 - Present (13 years 6 months)",
-          "companyName": "MEDIA CONFES SDN BHD",
-          "jobTitle": "SALES EXECUTIVE"
-        },
-        {
-          "raw": "SUPERVISOR/CNC PROGRAMMER · INOSCALE SDN BHD · Dec 2011 - Present (14 years 7 months)",
-          "companyName": "INOSCALE SDN BHD",
-          "jobTitle": "SUPERVISOR/CNC PROGRAMMER"
-        }
-      ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 14,
-      "source": "hk.employer.seek.com",
-      "searchProfileId": "",
-      "language": "en",
-      "pageNumber": 1,
-      "sourceHost": "hk.employer.seek.com"
-    },
-    {
-      "profileId": "65c396d0-ca6a-86de-96cd-aa7c00000000",
-      "profileType": "seek",
-      "seekProfileGuid": "65c396d0-ca6a-86de-96cd-aa7c00000000",
-      "externalId": "hk.employer.seek.com:profile:65c396d0-ca6a-86de-96cd-aa7c00000000",
-      "name": "Adam Salihin",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=Adam%20Salihin&market=MY&pageNumber=1",
-      "activityStatus": "within the last 6 months",
-      "age": "",
-      "experience": "",
-      "education": "",
-      "location": "Shah Alam, Selangor, MY",
-      "jobIntention": "",
-      "expectedSalary": "",
-      "selfIntro": "",
-      "workHistory": [
-        {
-          "raw": "CNC Lathe Machinist · Setsu Precision Technology (M) · Aug 2025 - Present (11 months)",
-          "companyName": "Setsu Precision Technology (M)",
-          "jobTitle": "CNC Lathe Machinist"
-        },
-        {
-          "raw": "CNC Lathe Machinist · Tonasco · Mar 2024 - Aug 2025 (1 year 6 months)",
-          "companyName": "Tonasco",
-          "jobTitle": "CNC Lathe Machinist"
-        },
-        {
-          "raw": "Sales Assistant · Bata Shoes · Mar 2022 - May 2022 (3 months)",
-          "companyName": "Bata Shoes",
-          "jobTitle": "Sales Assistant"
-        }
-      ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 15,
-      "source": "hk.employer.seek.com",
-      "searchProfileId": "",
-      "language": "en",
-      "pageNumber": 1,
-      "sourceHost": "hk.employer.seek.com"
-    },
-    {
-      "profileId": "67a0009e-7c7a-62e2-9bb3-254700000000",
-      "profileType": "seek",
-      "seekProfileGuid": "67a0009e-7c7a-62e2-9bb3-254700000000",
-      "externalId": "hk.employer.seek.com:profile:67a0009e-7c7a-62e2-9bb3-254700000000",
-      "name": "KHAI SHENG SOO",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=KHAI%20SHENG%20SOO&market=MY&pageNumber=1",
-      "activityStatus": "within the last 6 months",
-      "age": "",
-      "experience": "",
-      "education": "",
-      "location": "Bukit Mertajam, Penang, MY",
-      "jobIntention": "",
-      "expectedSalary": "",
-      "selfIntro": "",
-      "workHistory": [
-        {
-          "raw": "CNC Milling Machinist · Virtue Technology · Jun 2022 - Present (4 years 1 month)",
-          "companyName": "Virtue Technology",
-          "jobTitle": "CNC Milling Machinist"
-        },
-        {
-          "raw": "CNC Turning Machinist · CQM Technology · Jun 2019 - Apr 2022 (2 years 11 months)",
-          "companyName": "CQM Technology",
-          "jobTitle": "CNC Turning Machinist"
-        },
-        {
-          "raw": "Machine Technician · Sharp Sdn Bhd · Apr 2015 - Apr 2019 (4 years 1 month)",
-          "companyName": "Sharp Sdn Bhd",
-          "jobTitle": "Machine Technician"
-        }
-      ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 16,
-      "source": "hk.employer.seek.com",
-      "searchProfileId": "",
-      "language": "en",
-      "pageNumber": 1,
-      "sourceHost": "hk.employer.seek.com"
-    },
-    {
-      "profileId": "e4eca65e-2711-11e0-93cb-001ec9b02997",
-      "profileType": "seek",
-      "seekProfileGuid": "e4eca65e-2711-11e0-93cb-001ec9b02997",
-      "externalId": "hk.employer.seek.com:profile:e4eca65e-2711-11e0-93cb-001ec9b02997",
-      "name": "LIM HENG SHENG",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=LIM%20HENG%20SHENG&market=MY&pageNumber=1",
-      "activityStatus": "over a year ago",
-      "age": "",
-      "experience": "",
-      "education": "",
-      "location": "Penang, MY",
-      "jobIntention": "",
-      "expectedSalary": "",
-      "selfIntro": "",
-      "workHistory": [
-        {
-          "raw": "Cnc milling machinist · banshing industrial Pte Ltd · Oct 2018 - Sep 2020 (2 years)",
-          "companyName": "banshing industrial Pte Ltd",
-          "jobTitle": "Cnc milling machinist"
-        },
-        {
-          "raw": "Cnc MACHINIST · Micro-Mechanics Pte Ltd · May 2014 - Aug 2018 (4 years 4 months)",
-          "companyName": "Micro-Mechanics Pte Ltd",
-          "jobTitle": "Cnc MACHINIST"
-        },
-        {
-          "raw": "Sales & Marketing · TENCON HARDWARE TRADING · May 2012 - May 2014 (2 years 1 month)",
-          "companyName": "TENCON HARDWARE TRADING",
-          "jobTitle": "Sales & Marketing"
-        }
-      ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 17,
-      "source": "hk.employer.seek.com",
-      "searchProfileId": "",
-      "language": "en",
-      "pageNumber": 1,
-      "sourceHost": "hk.employer.seek.com"
-    },
-    {
-      "profileId": "a494baf2-68ac-11e9-b123-005056b16351",
-      "profileType": "seek",
-      "seekProfileGuid": "a494baf2-68ac-11e9-b123-005056b16351",
-      "externalId": "hk.employer.seek.com:profile:a494baf2-68ac-11e9-b123-005056b16351",
-      "name": "Rizal Ridzuan",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=Rizal%20Ridzuan&market=MY&pageNumber=1",
-      "activityStatus": "over a year ago",
-      "age": "",
-      "experience": "",
-      "education": "",
-      "location": "Johor, MY",
-      "jobIntention": "",
-      "expectedSalary": "",
-      "selfIntro": "",
-      "workHistory": [
-        {
-          "raw": "CNC Technician · GE Shen Plastic · Feb 2022 - Present (4 years 5 months)",
-          "companyName": "GE Shen Plastic",
-          "jobTitle": "CNC Technician"
-        },
-        {
-          "raw": "Operation Assistant · honestbee Pte Ltd · Apr 2018 - Jun 2018 (3 months)",
-          "companyName": "honestbee Pte Ltd",
-          "jobTitle": "Operation Assistant"
-        },
-        {
-          "raw": "Shift Leader · 7-eleven Spore · Aug 2016 - Mar 2018 (1 year 8 months)",
-          "companyName": "7-eleven Spore",
-          "jobTitle": "Shift Leader"
-        }
-      ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 18,
+      "extractedAt": "2026-06-03T08:06:38.862Z",
+      "pageIndex": 3,
       "source": "hk.employer.seek.com",
       "searchProfileId": "",
       "language": "en",
@@ -756,8 +171,8 @@
           "jobTitle": "CNC Setter"
         }
       ],
-      "extractedAt": "2026-06-02T15:18:30.906Z",
-      "pageIndex": 19,
+      "extractedAt": "2026-06-03T08:06:38.862Z",
+      "pageIndex": 4,
       "source": "hk.employer.seek.com",
       "searchProfileId": "",
       "language": "en",
@@ -765,13 +180,13 @@
       "sourceHost": "hk.employer.seek.com"
     },
     {
-      "profileId": "477ff354-0fb4-11e5-9c39-005056a239d4",
+      "profileId": "dc91d05a-94e4-11e6-8284-005056a2749b",
       "profileType": "seek",
-      "seekProfileGuid": "477ff354-0fb4-11e5-9c39-005056a239d4",
-      "externalId": "hk.employer.seek.com:profile:477ff354-0fb4-11e5-9c39-005056a239d4",
-      "name": "matt yusoff",
-      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=matt%20yusoff&market=MY&pageNumber=1",
-      "activityStatus": "within the last 1 year",
+      "seekProfileGuid": "dc91d05a-94e4-11e6-8284-005056a2749b",
+      "externalId": "hk.employer.seek.com:profile:dc91d05a-94e4-11e6-8284-005056a2749b",
+      "name": "Mohammad Zul Afiq Mohd Amin",
+      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=Mohammad%20Zul%20Afiq%20Mohd%20Amin&market=MY&pageNumber=1",
+      "activityStatus": "over a year ago",
       "age": "",
       "experience": "",
       "education": "",
@@ -781,23 +196,258 @@
       "selfIntro": "",
       "workHistory": [
         {
-          "raw": "CNC Machinist Programmer/operator · thermal matic system · Mar 2023 - Present (3 years 4 months)",
-          "companyName": "thermal matic system",
-          "jobTitle": "CNC Machinist Programmer/operator"
+          "raw": "Senior Engineer Supervisor · NSL PRECISION ENGINEERING SERVICES SDN. BHD. · Aug 2020 - Present (5 years 11 months)",
+          "companyName": "NSL PRECISION ENGINEERING SERVICES SDN. BHD.",
+          "jobTitle": "Senior Engineer Supervisor"
         },
         {
-          "raw": "foreman · mekanika garage · Jul 2018 - Apr 2019 (10 months)",
-          "companyName": "mekanika garage",
-          "jobTitle": "foreman"
+          "raw": "CNC Milling Machinist and Sales Engineer · NSL PRECISION ENGINEERING SERVICES SDN. BHD. · Jan 2017 - Present (9 years 6 months)",
+          "companyName": "NSL PRECISION ENGINEERING SERVICES SDN. BHD.",
+          "jobTitle": "CNC Milling Machinist and Sales Engineer"
         },
         {
-          "raw": "Maintenance Role · first business in hotel · Feb 2017 - May 2018 (1 year 4 months)",
-          "companyName": "first business in hotel",
-          "jobTitle": "Maintenance Role"
+          "raw": "Retail Assistant · ABC Footwear Sdn Bhd · Jun 2012 - Jul 2014 (2 years 2 months)",
+          "companyName": "ABC Footwear Sdn Bhd",
+          "jobTitle": "Retail Assistant"
         }
       ],
-      "extractedAt": "2026-06-02T15:18:30.907Z",
-      "pageIndex": 20,
+      "extractedAt": "2026-06-03T08:06:38.862Z",
+      "pageIndex": 5,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "en",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "f90f83d2-7306-11ee-8768-005056a279c0",
+      "profileType": "seek",
+      "seekProfileGuid": "f90f83d2-7306-11ee-8768-005056a279c0",
+      "externalId": "hk.employer.seek.com:profile:f90f83d2-7306-11ee-8768-005056a279c0",
+      "name": "TANG WEI LUNG",
+      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=TANG%20WEI%20LUNG&market=MY&pageNumber=1",
+      "activityStatus": "over a year ago",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "Melaka, MY",
+      "jobIntention": "",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "CNC MILLING supervisor/salesman · Empower new M sdn bhd · Jun 2021 - Aug 2023 (2 years 3 months)",
+          "companyName": "Empower new M sdn bhd",
+          "jobTitle": "CNC MILLING supervisor/salesman"
+        },
+        {
+          "raw": "CNC MILLING PROGRAMMER/CNC SUPERVISOR · TECHWARE KINZOKU TECHNOLOGY SDN. BHD. · Jun 2017 - May 2021 (4 years)",
+          "companyName": "TECHWARE KINZOKU TECHNOLOGY SDN. BHD.",
+          "jobTitle": "CNC MILLING PROGRAMMER/CNC SUPERVISOR"
+        },
+        {
+          "raw": "CNC MILLING PROGRAMMER · Cts solution sdn bhd · May 2012 - Oct 2016 (4 years 6 months)",
+          "companyName": "Cts solution sdn bhd",
+          "jobTitle": "CNC MILLING PROGRAMMER"
+        }
+      ],
+      "extractedAt": "2026-06-03T08:06:38.862Z",
+      "pageIndex": 6,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "en",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "f3a0349e-4b1e-11e7-a060-005056a239d4",
+      "profileType": "seek",
+      "seekProfileGuid": "f3a0349e-4b1e-11e7-a060-005056a239d4",
+      "externalId": "hk.employer.seek.com:profile:f3a0349e-4b1e-11e7-a060-005056a239d4",
+      "name": "MOHD ZAIDI ZAKARIA",
+      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=MOHD%20ZAIDI%20ZAKARIA&market=MY&pageNumber=1",
+      "activityStatus": "over a year ago",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "Selangor, MY",
+      "jobIntention": "",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Sales Manager · MZZ WHEELS TRADING · Sep 2015 - Jul 2020 (4 years 11 months)",
+          "companyName": "MZZ WHEELS TRADING",
+          "jobTitle": "Sales Manager"
+        },
+        {
+          "raw": "Production Manager, Sales Manager, CNC Programmer · WSA GROUP OF COMPANIES · May 2011 - Sep 2015 (4 years 5 months)",
+          "companyName": "WSA GROUP OF COMPANIES",
+          "jobTitle": "Production Manager, Sales Manager, CNC Programmer"
+        },
+        {
+          "raw": "Assistant Factory Manager · Titan Model Sdn Bhd ( Titan Racing) · Dec 2005 - Apr 2011 (5 years 5 months)",
+          "companyName": "Titan Model Sdn Bhd ( Titan Racing)",
+          "jobTitle": "Assistant Factory Manager"
+        }
+      ],
+      "extractedAt": "2026-06-03T08:06:38.862Z",
+      "pageIndex": 7,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "en",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "298c3830-3988-11e7-96c0-005056b15d2d",
+      "profileType": "seek",
+      "seekProfileGuid": "298c3830-3988-11e7-96c0-005056b15d2d",
+      "externalId": "hk.employer.seek.com:profile:298c3830-3988-11e7-96c0-005056b15d2d",
+      "name": "Kelvin Tan Shen Yeon",
+      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=Kelvin%20Tan%20Shen%20Yeon&market=MY&pageNumber=1",
+      "activityStatus": "within the last 1 year",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "Perak, MY",
+      "jobIntention": "",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Mechanical Designer cum CNC Programmer & Salesperson · Seng Heng Precision Tools Sdn.Bhd · Oct 2018 - Present (7 years 9 months)",
+          "companyName": "Seng Heng Precision Tools Sdn.Bhd",
+          "jobTitle": "Mechanical Designer cum CNC Programmer & Salesperson"
+        },
+        {
+          "raw": "Graphic Designer · Intact Communications Sdn Bhd · Sep 2017 - Sep 2018 (1 year 1 month)",
+          "companyName": "Intact Communications Sdn Bhd",
+          "jobTitle": "Graphic Designer"
+        },
+        {
+          "raw": "Freelance Designer · - · May 2017 - Aug 2017 (4 months)",
+          "companyName": "-",
+          "jobTitle": "Freelance Designer"
+        }
+      ],
+      "extractedAt": "2026-06-03T08:06:38.862Z",
+      "pageIndex": 8,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "en",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "891b1444-efa1-11e3-99bd-5e95a6174ad3",
+      "profileType": "seek",
+      "seekProfileGuid": "891b1444-efa1-11e3-99bd-5e95a6174ad3",
+      "externalId": "hk.employer.seek.com:profile:891b1444-efa1-11e3-99bd-5e95a6174ad3",
+      "name": "KHA LEONG CH'NG",
+      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=KHA%20LEONG%20CH'NG&market=MY&pageNumber=1",
+      "activityStatus": "over a year ago",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "Penang, MY",
+      "jobIntention": "",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Sales & Service Engineer · CK MAC (PENANG) SDN BHD · Jul 2014 - Present (12 years)",
+          "companyName": "CK MAC (PENANG) SDN BHD",
+          "jobTitle": "Sales & Service Engineer"
+        },
+        {
+          "raw": "Sales Engineer for CNC machines · CK Mac Sdn · Jul 2017 - Present (9 years)",
+          "companyName": "CK Mac Sdn",
+          "jobTitle": "Sales Engineer for CNC machines"
+        }
+      ],
+      "extractedAt": "2026-06-03T08:06:38.862Z",
+      "pageIndex": 9,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "en",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "698353dc-c8d5-4b1e-b099-f3504e2cbad0",
+      "profileType": "seek",
+      "seekProfileGuid": "698353dc-c8d5-4b1e-b099-f3504e2cbad0",
+      "externalId": "hk.employer.seek.com:profile:698353dc-c8d5-4b1e-b099-f3504e2cbad0",
+      "name": "Sen Hock Chai",
+      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=Sen%20Hock%20Chai&market=MY&pageNumber=1",
+      "activityStatus": "within the last 6 months",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "Klang, Selangor, MY",
+      "jobIntention": "",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Mechanical and Electrical Engineer · Unqiue Machinery Technology Sdn bhd · May 2012 - Present (14 years 2 months)",
+          "companyName": "Unqiue Machinery Technology Sdn bhd",
+          "jobTitle": "Mechanical and Electrical Engineer"
+        },
+        {
+          "raw": "CNC Technician /CNC Sales Executive · Unique MachineryTechnologySdn Bhd. · Jan 2012 - Present (14 years 6 months)",
+          "companyName": "Unique MachineryTechnologySdn Bhd.",
+          "jobTitle": "CNC Technician /CNC Sales Executive"
+        },
+        {
+          "raw": "CNC 维修技术员/机器销售 · Unique MachineryTechnologySdn Bhd. · Jan 2025 - Jan 2012 (1 month or less)",
+          "companyName": "Unique MachineryTechnologySdn Bhd.",
+          "jobTitle": "CNC 维修技术员/机器销售"
+        }
+      ],
+      "extractedAt": "2026-06-03T08:06:38.862Z",
+      "pageIndex": 10,
+      "source": "hk.employer.seek.com",
+      "searchProfileId": "",
+      "language": "en",
+      "pageNumber": 1,
+      "sourceHost": "hk.employer.seek.com"
+    },
+    {
+      "profileId": "7fcefc04-c0d6-11ea-b840-005056b15d2d",
+      "profileType": "seek",
+      "seekProfileGuid": "7fcefc04-c0d6-11ea-b840-005056b15d2d",
+      "externalId": "hk.employer.seek.com:profile:7fcefc04-c0d6-11ea-b840-005056b15d2d",
+      "name": "NURUL ATIQAH BINTI NASIR",
+      "profileUrl": "https://hk.employer.seek.com/talentsearch/profiles/search?searchQuery=NURUL%20ATIQAH%20BINTI%20NASIR&market=MY&pageNumber=1",
+      "activityStatus": "within the last 1 year",
+      "age": "",
+      "experience": "",
+      "education": "",
+      "location": "Petaling Jaya, Selangor, MY",
+      "jobIntention": "",
+      "expectedSalary": "",
+      "selfIntro": "",
+      "workHistory": [
+        {
+          "raw": "Admin & Account Assistant · Hanlim Trading Sdn Bhd · Jan 2021 - Oct 2021 (10 months)",
+          "companyName": "Hanlim Trading Sdn Bhd",
+          "jobTitle": "Admin & Account Assistant"
+        },
+        {
+          "raw": "CNC Sales and Admin Coordinator · MITSUBISHI ELECTRIC SALES MALAYSIA SDN BHD · Sep 2024 - Present (1 year 10 months)",
+          "companyName": "MITSUBISHI ELECTRIC SALES MALAYSIA SDN BHD",
+          "jobTitle": "CNC Sales and Admin Coordinator"
+        },
+        {
+          "raw": "Account Assistant (Account Payable) · YAKULT MALAYSIA SDN BHD · Dec 2021 - Jan 2024 (2 years 2 months)",
+          "companyName": "YAKULT MALAYSIA SDN BHD",
+          "jobTitle": "Account Assistant (Account Payable)"
+        }
+      ],
+      "extractedAt": "2026-06-03T08:06:38.862Z",
+      "pageIndex": 11,
       "source": "hk.employer.seek.com",
       "searchProfileId": "",
       "language": "en",
